@@ -3,7 +3,7 @@
   "author": "CKSource",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
   "version": "1.0.0",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": "MIT",
   "devDependencies": {
     "@ckeditor/ckeditor5-basic-styles": "^25.0.0",
     "@ckeditor/ckeditor5-dev-utils": "^24.0.2",
